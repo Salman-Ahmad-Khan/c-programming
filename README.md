@@ -1,2 +1,2 @@
 # c-programming
-#This repo contains the basic c programs
+This repo contains the basic c programs
